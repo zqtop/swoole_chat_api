@@ -266,8 +266,8 @@ return [
         "host" => "smtp.qq.com",
         "smtpSecure" => "ssl",
         "smtpAuth" => true,
-        "username" => "447382562@qq.com",
-        "password" => "ulwxsywcnnkzcahg",
+        "username" => "",
+        "password" => "",
         "port" => 465,
         "remark" => "聊天登录提醒",
         "timeOut" => 120
